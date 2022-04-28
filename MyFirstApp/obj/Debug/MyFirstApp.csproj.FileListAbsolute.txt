@@ -1,0 +1,7 @@
+C:\Downloads\homework\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\Downloads\homework\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\Downloads\homework\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\Downloads\homework\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
+C:\Downloads\homework\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Downloads\homework\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\Downloads\homework\MyFirstApp\obj\Debug\MyFirstApp.pdb
