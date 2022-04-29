@@ -1,0 +1,7 @@
+C:\Downloads\homework\task8\bin\Debug\task8.exe.config
+C:\Downloads\homework\task8\bin\Debug\task8.exe
+C:\Downloads\homework\task8\bin\Debug\task8.pdb
+C:\Downloads\homework\task8\obj\Debug\task8.csproj.AssemblyReference.cache
+C:\Downloads\homework\task8\obj\Debug\task8.csproj.CoreCompileInputs.cache
+C:\Downloads\homework\task8\obj\Debug\task8.exe
+C:\Downloads\homework\task8\obj\Debug\task8.pdb
